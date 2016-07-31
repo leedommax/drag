@@ -1,3 +1,3 @@
 function drag(){
-	
+	var a
 }
